@@ -1,1 +1,5 @@
-test 1 
+<<<<<<< HEAD
+test 1 + zmiana Ady
+=======
+test 1 +zmiana Jan Kowalski 
+>>>>>>> 9a64f93b7d9b7ab0168933195a03b928907ffea2
