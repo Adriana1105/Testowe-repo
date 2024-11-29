@@ -1,4 +1,4 @@
 test 0 
 
 lekcja 10git status
-treść w nowym branchu + zmiana 
+treść w nowym branchu + zmiana dupa
